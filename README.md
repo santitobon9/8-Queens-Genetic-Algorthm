@@ -1,2 +1,2 @@
-# 8-Queens-Genetic-Algorthm
+# 8-Queens-Genetic-Algorithm
 Implemented a genetic algorithm to solve the 8-Queens problem
